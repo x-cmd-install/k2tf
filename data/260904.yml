@@ -7,7 +7,7 @@ about:
   head: 1b376c0
   archived: false
   latestVersion: v0.8.0
-  collectedAt: 2026-09-04T19:41:31Z
+  collectedAt: 2026-09-04T20:52:40Z
 timeline:
   created: 2019-02-24
   lastCommit: 2024-08-07
@@ -82,6 +82,39 @@ total:
   openIssue: 19
   commit: 238
 ---
+path: /home/runner/.x-repo/github.com/sl1pm4t/k2tf
+collectedAt: 2026-09-04T20:52:40Z
+loc:
+  Go:
+    code: 1881
+    comments: 211
+    blanks: 317
+    files: 18
+  Yaml:
+    code: 927
+    comments: 34
+    blanks: 8
+    files: 34
+  Makefile:
+    code: 15
+    comments: 0
+    blanks: 8
+    files: 1
+  Sh:
+    code: 2
+    comments: 2
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 53
+    blanks: 33
+    files: 1
+total:
+  code: 2825
+  comments: 300
+  blanks: 367
+  files: 55
 ---
 date: "2026-08-24"
 repo:

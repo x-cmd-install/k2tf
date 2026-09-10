@@ -4,7 +4,7 @@
 
 Kubernetes YAML to Terraform HCL converter
 
-![k2tf](https://repo.x-cmd.io/k2tf.svg)
+![k2tf](https://repo.x-cmd.io/k2tf.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,18 @@ x install k2tf
 - **最新版本**: `v0.8.0` (2024-05-19)
 - **最近提交**: 2024-08-07
 - **Release 含资产**: 7 个
-- **发布时间**: 2024-05-19T01:04:14Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [checksums.txt](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/checksums.txt) | 582 B | `other` |
+| [k2tf_0.8.0_Darwin_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Darwin_amd64.tar.gz) | 14.8 MiB | `native/darwin/x64` |
+| [k2tf_0.8.0_Darwin_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Darwin_arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
+| [k2tf_0.8.0_Linux_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Linux_amd64.tar.gz) | 14.5 MiB | `native/linux/x64` |
+| [k2tf_0.8.0_Linux_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Linux_arm64.tar.gz) | 13.1 MiB | `native/linux/arm64` |
+| [k2tf_0.8.0_Windows_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Windows_amd64.tar.gz) | 14.9 MiB | `native/win/x64` |
+| [k2tf_0.8.0_Windows_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Windows_arm64.tar.gz) | 13.2 MiB | `native/win/arm64` |
 
 ## 流行度
 
@@ -71,4 +82,4 @@ k2tf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:40:04Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:31:09Z._

@@ -22,7 +22,18 @@ x install k2tf
 - **Latest**: `v0.8.0` (2024-05-19)
 - **Last commit**: 2024-08-07
 - **Assets in release**: 7
-- **Published**: 2024-05-19T01:04:14Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [checksums.txt](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/checksums.txt) | 582 B | `other` |
+| [k2tf_0.8.0_Darwin_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Darwin_amd64.tar.gz) | 14.8 MiB | `native/darwin/x64` |
+| [k2tf_0.8.0_Darwin_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Darwin_arm64.tar.gz) | 13.8 MiB | `native/darwin/arm64` |
+| [k2tf_0.8.0_Linux_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Linux_amd64.tar.gz) | 14.5 MiB | `native/linux/x64` |
+| [k2tf_0.8.0_Linux_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Linux_arm64.tar.gz) | 13.1 MiB | `native/linux/arm64` |
+| [k2tf_0.8.0_Windows_amd64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Windows_amd64.tar.gz) | 14.9 MiB | `native/win/x64` |
+| [k2tf_0.8.0_Windows_arm64.tar.gz](https://github.com/sl1pm4t/k2tf/releases/download/v0.8.0/k2tf_0.8.0_Windows_arm64.tar.gz) | 13.2 MiB | `native/win/arm64` |
 
 ## Popularity
 
@@ -67,8 +78,8 @@ Lowest-scoring checks:
 Install metadata for k2tf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `k2tf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/k2tf.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/k2tf.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:40:03Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:31:08Z._

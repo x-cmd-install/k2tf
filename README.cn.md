@@ -4,7 +4,7 @@
 
 Kubernetes YAML to Terraform HCL converter
 
-[![x-cmd/install — k2tf Code Quality Monitoring Repo Card](https://repo.x-cmd.io/k2tf.svg?lang=zh)](https://x-cmd.com/install/k2tf)
+[![x-cmd/install — k2tf Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/k2tf.svg?lang=zh)](https://x-cmd.com/install/k2tf)
 
 ## 安装
 
@@ -30,8 +30,8 @@ x install k2tf
 
 评分最低的几项:
 
-- **Code-Review** (4/10) — Found 3/7 approved changesets -- score normalized to 4
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (4/10) — Found 3/7 approved changesets -- score normalized to 4
 - **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 
 ## 源代码
@@ -57,12 +57,12 @@ x install k2tf
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 360d | 2025-09-27 | 0 | 0 | 2 | 0 | 0 | 0 |
-| last720d | 2024-10-02 | 0 | 0 | 4 | 0 | 3 | 0 |
+| 30d | 2026-08-24 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 0 | 0 | 0 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 0 | 0 | 0 | 0 |
+| 360d | 2025-09-28 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last720d | 2024-10-03 | 0 | 0 | 4 | 0 | 3 | 0 |
 
 ## Release 资产
 
@@ -85,4 +85,4 @@ k2tf 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:03:28Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T04:56:48Z._
